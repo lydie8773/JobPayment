@@ -1,6 +1,6 @@
 # Site settings
-title:
-email: lijun.want@decathlon.com
+title: Decathlon Payment Engineer
+email: lijun.wang@decathlon.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
